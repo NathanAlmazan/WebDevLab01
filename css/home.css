@@ -228,7 +228,7 @@
     opacity: 1;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .prod-label {
         bottom: 0;
     }
